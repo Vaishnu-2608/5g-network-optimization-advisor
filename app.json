@@ -1,0 +1,11 @@
+{
+  "name": "AI-Based 5G Network Optimization Advisor",
+  "description": "AI-powered system for 5G network performance analysis, prediction and optimization recommendations",
+  "version": "1.0.0",
+  "technology": [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "5G Networks",
+    "Python"
+  ]
+}
